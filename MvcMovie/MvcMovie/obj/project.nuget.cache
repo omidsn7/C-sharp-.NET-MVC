@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bm5BikJ0HUR/CD4PZdDzW84MJu7iyJOTRo+M4+afONaXcyGvnl7Lrqp2a9XcVZNWVAT7YCTASrmlnOZ8y6JvdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\O_sorayaee\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\O_sorayaee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
